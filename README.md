@@ -1,1 +1,1 @@
-# Detecting-OffensiveVSnormal-Text
+# Detecting-Arabic-OffensiveVSnormal-Text
